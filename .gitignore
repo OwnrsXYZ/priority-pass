@@ -1,0 +1,11 @@
+# os
+.DS_Store
+
+.env
+.cache
+
+node_modules
+
+# hardhat 
+cache
+artifacts
